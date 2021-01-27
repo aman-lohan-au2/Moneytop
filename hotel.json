@@ -1,0 +1,52 @@
+[
+    {
+        "room": "1",
+        "status": "Available",
+        "date": "January"
+    },
+    {
+        "room": "2",
+        "status": "NotAvailable",
+        "date": "Feb"
+    },
+    {
+        "room": "3",
+        "status": "Available",
+        "date": "Karnataka"
+    },
+    {
+        "room": "4",
+        "status": "NotAvailable",
+        "date": "March"
+    },
+    {
+        "room": "5",
+        "status": "Available",
+        "date": "January"
+    },
+    {
+        "room": "6",
+        "status": "NotAvailable",
+        "date": "March"
+    },
+    {
+        "room": "7",
+        "status": "NotAvailable",
+        "date": "March"
+    },
+    {
+        "room": "8",
+        "status": "Available",
+        "date": "January"
+    },
+    {
+        "room": "9",
+        "status": "NotAvailable",
+        "date": "April"
+    },
+    {
+        "room": "10",
+        "status": "Available",
+        "date": "March"
+    }
+]
